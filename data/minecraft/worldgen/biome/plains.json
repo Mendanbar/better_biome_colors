@@ -72,8 +72,6 @@
       ],
       [
           "minecraft:glow_lichen",
-          "terralith:plains/patch_grass",
-          "terralith:plains/patch_tall_grass",
           "minecraft:trees_plains",
           "minecraft:flower_plains",
           "minecraft:patch_grass_plain",
