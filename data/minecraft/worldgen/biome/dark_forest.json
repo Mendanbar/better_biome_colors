@@ -14,7 +14,7 @@
     "grass_color_modifier": "dark_forest",
     "mood_sound": {
       "block_search_extent": 8,
-      "offset": 2.0,
+      "offset": 2,
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000
     },
@@ -35,7 +35,9 @@
     "water_fog_color": 329011
   },
   "features": [
-    [],
+    [
+      "terralith:taiga/mega/boulders"
+    ],
     [
       "minecraft:lake_lava_underground",
       "minecraft:lake_lava_surface"
@@ -75,10 +77,7 @@
       "minecraft:ore_lapis",
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
-      "minecraft:underwater_magma",
-      "minecraft:disk_sand",
-      "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "minecraft:underwater_magma"
     ],
     [],
     [
@@ -86,6 +85,13 @@
       "minecraft:spring_lava"
     ],
     [
+      "terralith:dark/patch_mushroom",
+      "terralith:dark/grass",
+      "terralith:dark/disk_podzol",
+      "terralith:dark/disk_mud",
+      "terralith:dark/trees",
+      "terralith:dark/lichen",
+      "terralith:dark/lichen_log",
       "minecraft:glow_lichen",
       "minecraft:dark_forest_vegetation",
       "minecraft:forest_flowers",
@@ -94,7 +100,8 @@
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin"
+      "minecraft:patch_pumpkin",
+      "minecraft:patch_berry_common"
     ],
     [
       "minecraft:freeze_top_layer"
@@ -115,26 +122,26 @@
     "creature": [
       {
         "type": "minecraft:sheep",
-        "maxCount": 4,
-        "minCount": 4,
+        "maxCount": 2,
+        "minCount": 2,
         "weight": 12
       },
       {
         "type": "minecraft:pig",
-        "maxCount": 4,
-        "minCount": 4,
+        "maxCount": 2,
+        "minCount": 2,
         "weight": 10
       },
       {
         "type": "minecraft:chicken",
-        "maxCount": 4,
-        "minCount": 4,
+        "maxCount": 2,
+        "minCount": 2,
         "weight": 10
       },
       {
         "type": "minecraft:cow",
-        "maxCount": 4,
-        "minCount": 4,
+        "maxCount": 2,
+        "minCount": 2,
         "weight": 8
       }
     ],
