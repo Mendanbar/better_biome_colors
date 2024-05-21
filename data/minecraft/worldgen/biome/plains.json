@@ -22,10 +22,6 @@
   },
   "features": [
       [
-          "terralith:canyon/cliff/grass_upper",
-          "terralith:canyon/cliff/grass_lower"
-      ],
-      [
           "minecraft:lake_lava_underground",
           "minecraft:lake_lava_surface"
       ],
