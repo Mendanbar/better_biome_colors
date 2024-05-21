@@ -24,6 +24,12 @@
       "replace_current_music": false,
       "sound": "minecraft:music.overworld.forest"
     },
+    "particle": {
+      "options": {
+        "type": "minecraft:warped_spore"
+      },
+      "probability": 0.059046667
+    },
     "sky_color": 3027789,
     "water_color": 4159204,
     "water_fog_color": 329011
