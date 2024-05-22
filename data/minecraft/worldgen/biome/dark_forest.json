@@ -112,7 +112,7 @@
         "type": "minecraft:bat",
         "maxCount": 8,
         "minCount": 8,
-        "weight": 10
+        "weight": 5
       }
     ],
     "axolotls": [],
@@ -148,10 +148,10 @@
         "type": "minecraft:spider",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 100
+        "weight": 50
       },
       {
-        "type": "minecraft:zombie",
+        "type": "minecraft:vex",
         "maxCount": 4,
         "minCount": 4,
         "weight": 95
@@ -166,19 +166,19 @@
         "type": "minecraft:skeleton",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 100
+        "weight": 50
       },
       {
         "type": "minecraft:creeper",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 100
+        "weight": 50
       },
       {
         "type": "minecraft:slime",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 100
+        "weight": 50
       },
       {
         "type": "minecraft:enderman",
@@ -190,7 +190,7 @@
         "type": "minecraft:witch",
         "maxCount": 1,
         "minCount": 1,
-        "weight": 5
+        "weight": 20
       }
     ],
     "underground_water_creature": [
