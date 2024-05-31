@@ -176,13 +176,13 @@
         "weight": 50
       },
       {
-        "type": "minecraft:creeper",
+        "type": "minecraft:zombie",
         "maxCount": 4,
         "minCount": 4,
         "weight": 50
       },
       {
-        "type": "minecraft:slime",
+        "type": "minecraft:witch",
         "maxCount": 4,
         "minCount": 4,
         "weight": 50
@@ -192,12 +192,6 @@
         "maxCount": 4,
         "minCount": 1,
         "weight": 10
-      },
-      {
-        "type": "minecraft:witch",
-        "maxCount": 1,
-        "minCount": 1,
-        "weight": 20
       }
     ],
     "underground_water_creature": [
